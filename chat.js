@@ -1,4 +1,4 @@
-const API_KEY="AIzaSyB3FNf9RFpwHQqZax66b_CF6osAB9mWrq4"
+const API_KEY="ENTER YOUR API KEY"
 const API_ENDPOINT = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 const submit_btn = document.querySelector(".submit-btn");
